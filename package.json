@@ -1,0 +1,25 @@
+{
+  "name": "obniz-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohutohu/obniz-7.git"
+  },
+  "author": "tohutohu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tohutohu/obniz-7/issues"
+  },
+  "homepage": "https://github.com/tohutohu/obniz-7#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "mysql": "github:mysqljs/mysql",
+    "obniz": "^1.16.1",
+    "request": "^2.88.0"
+  }
+}
